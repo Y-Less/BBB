@@ -2,5 +2,8 @@
 	"user": "Y-Less",
 	"repo": "BBB",
 	"entry": "tests\\BBB.pwn",
-	"output": "tests\\BBB.amx"
+	"output": "tests\\BBB.amx",
+	"dependencies": [
+		"Y-Less/AAA"
+	]
 }
