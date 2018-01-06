@@ -1,0 +1,6 @@
+{
+	"user": "Y-Less",
+	"repo": "BBB",
+	"entry": "tests\\BBB.pwn",
+	"output": "tests\\BBB.amx"
+}
